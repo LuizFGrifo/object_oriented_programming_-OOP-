@@ -1,0 +1,8 @@
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\bin\Debug\ClasseObjeto.exe.config
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\bin\Debug\ClasseObjeto.exe
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\bin\Debug\ClasseObjeto.pdb
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\obj\Debug\ClasseObjeto.csproj.AssemblyReference.cache
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\obj\Debug\ClasseObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\obj\Debug\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\obj\Debug\ClasseObjeto.exe
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\ClasseObjeto\obj\Debug\ClasseObjeto.pdb

@@ -1,0 +1,8 @@
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\bin\Debug\MetodosClasses.exe.config
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\bin\Debug\MetodosClasses.exe
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\bin\Debug\MetodosClasses.pdb
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\obj\Debug\MetodosClasses.csproj.AssemblyReference.cache
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\obj\Debug\MetodosClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\obj\Debug\MetodosClasses.csproj.CoreCompileInputs.cache
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\obj\Debug\MetodosClasses.exe
+C:\Users\lfgri\OneDrive\Documentos\Curso\C#\POO\MetodosClasses\obj\Debug\MetodosClasses.pdb
